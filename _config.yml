@@ -1,0 +1,3 @@
+# Inside _config.yml
+include:
+  - portfolio/
